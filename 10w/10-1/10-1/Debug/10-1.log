@@ -1,0 +1,6 @@
+﻿  1.c
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-1\10-1\1.c(10,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-1\10-1\1.c(17,11): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-1\10-1\1.c(18,9): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-1\10-1\1.c(28,4): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  10-1.vcxproj -> C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-1\Debug\10-1.exe

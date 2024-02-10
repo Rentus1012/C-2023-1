@@ -1,0 +1,4 @@
+﻿  2.c
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-2\10-2\2.c(19,8): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-2\10-2\2.c(21,5): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  10-2.vcxproj -> C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\10w\10-2\x64\Debug\10-2.exe

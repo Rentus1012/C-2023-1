@@ -1,0 +1,11 @@
+﻿  1.c
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(101,2): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(101,8): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(104,12): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(105,3): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(116,3): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(130,3): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(133,3): warning C4013: 'Sleep'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(134,9): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\1\1.c(141,7): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  1.vcxproj -> C:\Users\seung\OneDrive\바탕 화면\대학교 수업\c언어\14w\1\x64\Debug\1.exe

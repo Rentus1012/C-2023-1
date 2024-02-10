@@ -1,0 +1,13 @@
+1. 문장의 개수를 화면에 출력.
+2. 한컴타자(단문갯수, 최대길이 측정.)
+ 3. 분당 타수를 출력.
+4. 그때동안 했던 프로그램을 하나로 합쳐서 매뉴 처리.
+
+
+switch(no)
+{
+	case 1: enctypt(); break;
+	case 2: enctypt(); break;
+	case 3: enctypt(); break;
+	default: break; 
+}

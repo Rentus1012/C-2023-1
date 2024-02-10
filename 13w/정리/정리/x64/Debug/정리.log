@@ -1,0 +1,39 @@
+﻿  1.c
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(148,9): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(257,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(257,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(257,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(259,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(259,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(311,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(330,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(330,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(330,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(331,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(331,10): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(452,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(461,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(462,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(541,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(541,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(541,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(550,20): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(550,18): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(550,26): warning C4020: 'strcpy': 실제 매개 변수가 너무 많습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(551,23): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(551,21): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(551,29): warning C4020: 'strcpy': 실제 매개 변수가 너무 많습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(552,27): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(552,25): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(552,29): warning C4020: 'strcpy': 실제 매개 변수가 너무 많습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(593,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(679,12): warning C4013: 'en_de_menu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(683,4): warning C4013: 'en'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(687,4): warning C4013: 'de'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(805,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(824,16): warning C4244: '=': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(826,14): warning C4244: '=': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(844,10): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(736): warning C4716: 'en': 값을 반환해야 합니다.
+C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\정리\1.c(764): warning C4716: 'de': 값을 반환해야 합니다.
+  정리.vcxproj -> C:\Users\seung\OneDrive - SangMyung University\바탕 화면\대학교 수업\c언어\13w\정리\x64\Debug\정리.exe
